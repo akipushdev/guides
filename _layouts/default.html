@@ -12,6 +12,26 @@
       {{ content }}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZa0ETZfradhGCNTXQgOkQTNDZ4pJ8UJ0Zf4705gySg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+    <script>
+      anchors.add();
+      document.addEventListener('DOMContentLoaded', function() {
+        var links = document.querySelectorAll('.markdown-body a');
+        links.forEach(function(link) {
+          var href = link.getAttribute('href');
+          if (!href) return;
+          // Keep internal page anchors in the current view
+          if (href.startsWith('#')) return;
+          
+          // Open external and resource links in a new tab
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
+          
+          // Trigger file download for PDFs
+          if (href.endsWith('.pdf') || href.includes('/downloads/')) {
+            link.setAttribute('download', '');
+          }
+        });
+      });
+    </script>
   </body>
 </html>

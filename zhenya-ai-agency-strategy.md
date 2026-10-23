@@ -62,9 +62,9 @@ title: "Стратегический меморандум: Два направл
 
 | Документ | Ссылка | Описание |
 |---|---|---|
-| Профиль LinkedIn | [linkedin.com/in/kirilovu](https://www.linkedin.com/in/kirilovu) | Международный профиль (AI Systems Architect, High-Load) |
-| Резюме в PDF (Lead AI Architect) | [Скачать CV в PDF](./downloads/Alexander_Kirilov_Lead_AI_Architect_CV.pdf) | Резюме на английском языке под роли AI & High-Load Architect |
-| Выгрузка из LinkedIn (PDF) | [Скачать выгрузку](./downloads/Alexander_Kirilov_LinkedIn_Profile.pdf) | Официальная выгрузка профиля со всеми проектами |
+| Профиль LinkedIn | <a href="https://www.linkedin.com/in/kirilovu" target="_blank" rel="noopener noreferrer">linkedin.com/in/kirilovu</a> | Международный профиль (AI Systems Architect, High-Load) |
+| Резюме в PDF (Lead AI Architect) | <a href="./downloads/Alexander_Kirilov_Lead_AI_Architect_CV.pdf" target="_blank" download="Alexander_Kirilov_Lead_AI_Architect_CV.pdf">Скачать CV в PDF</a> | Резюме на английском языке под роли AI & High-Load Architect |
+| Выгрузка из LinkedIn (PDF) | <a href="./downloads/Alexander_Kirilov_LinkedIn_Profile.pdf" target="_blank" download="Alexander_Kirilov_LinkedIn_Profile.pdf">Скачать выгрузку в PDF</a> | Официальная выгрузка профиля со всеми проектами |
 
 ---
 
