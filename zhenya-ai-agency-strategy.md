@@ -76,8 +76,6 @@ title: "Стратегический меморандум: Два направл
 | Ресурс | Ссылка | Описание |
 |---|---|---|
 | **LinkedIn Профиль** | [linkedin.com/in/kirilovu](https://www.linkedin.com/in/kirilovu) | Актуальный международный профиль (AI Agent Engineer, High-Load) |
-| **Портфолио / Проекты** | [aipush.dev](https://aipush.dev) | Личная витрина AI-продуктов и микросервисов |
-| **GitHub Репозиторий** | [github.com/akipushdev](https://github.com/akipushdev) | Открытый код, FastMCP серверы, архитектурные наработки |
 | **📄 Скачать PDF CV (Lead AI Architect)** | [**Скачать Alexander_Kirilov_Lead_AI_Architect_CV.pdf**](./downloads/Alexander_Kirilov_Lead_AI_Architect_CV.pdf) | Специализированное резюме под AI & High-Load Architecture |
 | **📄 Скачать LinkedIn Export (PDF)** | [**Скачать Alexander_Kirilov_LinkedIn_Profile.pdf**](./downloads/Alexander_Kirilov_LinkedIn_Profile.pdf) | Официальная выгрузка профиля LinkedIn |
 
